@@ -5,7 +5,11 @@ This is a simple, interactive drum kit built using HTML, CSS, and JavaScript.
 Click on the buttons or use your keyboard keys (`w`, `a`, `s`, `d`, `j`, `k`, `l`) both upper case and lower case to play different drum sounds.
 
 
+---
+🌐 Live Demo
 
+🔗 https://ananthsai18.github.io/drums-kit/
+---
 <img width="1901" height="870" alt="Screenshot 2025-07-15 222944" src="https://github.com/user-attachments/assets/ca829d97-a388-4a48-89c6-baabdde877c6" />
 
 ---
